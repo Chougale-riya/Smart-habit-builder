@@ -1,1 +1,1 @@
-# Smart-habit-builder
+Smart Habit Builder is a Java-based application that helps users create, manage, and track their daily and weekly habits. Users can add habits, mark them as completed, view progress, maintain streaks, and get suggestions to improve their habits. The application saves user data and provides an easy way to monitor personal growth and consistency.
